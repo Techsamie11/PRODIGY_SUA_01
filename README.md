@@ -5,7 +5,11 @@ This repository contains the code and documentation for an individual full-stack
 <br>The <b>frontend</b> is built using HTML, CSS, and Bootstrap to provide a responsive and user-friendly interface.
 <br>This project helped in understanding secure authentication workflows, database connectivity, and full-stack application development, making it a valuable learning experience in real-world web application security.
 <br>
-<b>Technologies Used:</b> JSP, JDBC, PostgreSQL, HTML, CSS, Bootstrap<br>
-<b>Purpose:</b> Secure verification of user identity before granting system access
+<b><h2>Technologies</b></h2>
+technologies used : JSP, JDBC, PostgreSQL, HTML, CSS, Bootstrap<br>
+<b><h2>Purpose:</b></h2> Secure verification of user identity before granting system access
 <br>
-<b>Team Size:</b> 1 (Individual Project)
+<b><h2>Team Size:</b></h2> 1 (Individual Project)<br>
+<h2><b>Conclusion</b></h2>
+The Secure User Authentication System effectively verifies user identity before granting access, ensuring system security. The project provided hands-on experience with JSP, JDBC, PostgreSQL, and frontend technologies, strengthening understanding of full-stack development and authentication mechanisms.<br><br>
+Thank you for reviewing my internship task submission.
