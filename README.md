@@ -1,4 +1,4 @@
-# PRODIGY_SUA_01
+# PRODIGY_FSWD_01
 <b><h2>Overview</b></h2>
 This repository contains the code and documentation for an individual full-stack development project, focused on building a Secure User Authentication System. The project is designed to verify a user’s identity before granting access to a system, ensuring data security and controlled access.The system implements core authentication functionalities such as user registration, login, and validation, with secure interaction between the frontend and backend. 
 <br>The <b>backend</b> logic is developed using JSP and JDBC, while PostgreSQL is used for reliable and efficient database management. 
